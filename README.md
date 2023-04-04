@@ -1,2 +1,8 @@
 # ApiClientes
-api rest de clientes realizada en Java-Spring Boot,Spring Data JPA y  MySql
+api rest de clientes realizada con: 
+- Java-Spring Boot
+- Spring Data JPA
+- Spring Security
+- MySql
+
+
